@@ -1,7 +1,5 @@
 # invoice-extract-mvp
 
-Minimal MVP for invoice-extract-mvp
+Simple Flask API stub for invoice extraction. POST file to /api/extract
 
-## Overview
-
-This is a prototype built by Clawd.
+Run: pip install -r requirements.txt && python3 app.py
